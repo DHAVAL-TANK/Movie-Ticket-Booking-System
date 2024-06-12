@@ -1,0 +1,150 @@
+Feb 10, 2023 5:28:52 P.M. MovieBookingSystem main
+INFO: ATWA1234 has logged in the ATW Server
+Feb 10, 2023 5:29:20 P.M. Client.Admin run
+INFO: The Admin ATWA1234 successfully added new movie slots
+Feb 10, 2023 5:29:41 P.M. Client.Admin run
+INFO: The Admin ATWA1234 is attempting to remove movie slots
+Feb 10, 2023 5:30:05 P.M. Client.Admin run
+INFO: The Admin ATWA1234 removed slots successfully
+Feb 10, 2023 5:34:38 P.M. Client.Admin run
+INFO: The Admin ATWA1234 successfully added new movie slots
+Feb 10, 2023 5:38:58 P.M. Client.Admin run
+INFO: The Admin ATWA1234 is attempting to remove movie slots
+Feb 10, 2023 5:39:20 P.M. Client.Admin run
+INFO: The Admin ATWA1234 removed slots successfully
+Feb 10, 2023 6:17:33 P.M. MovieBookingSystem main
+INFO: ATWA1234 has logged in the ATW Server
+Feb 10, 2023 6:18:20 P.M. MovieBookingSystem main
+INFO: ATWA1234 has logged in the ATW Server
+Feb 10, 2023 6:21:18 P.M. MovieBookingSystem main
+INFO: ATWA1234 has logged in the ATW Server
+Feb 10, 2023 6:22:07 P.M. Client.Admin run
+INFO: The Admin ATWA1234 displayed the Record
+Feb 10, 2023 6:27:18 P.M. MovieBookingSystem main
+INFO: ATWA1234 has logged in the ATW Server
+Feb 10, 2023 6:27:23 P.M. Client.Admin run
+INFO: The Manager ATWA1234 attempting to retrieve Record count over all the servers
+Feb 10, 2023 6:52:46 P.M. MovieBookingSystem main
+INFO: ATWC1234 has logged in the ATW Server
+Feb 10, 2023 7:08:32 P.M. MovieBookingSystem main
+INFO: ATWC1234 has logged in the ATW Server
+Feb 10, 2023 7:12:11 P.M. MovieBookingSystem main
+INFO: ATWC1234 has logged in the ATW Server
+Feb 10, 2023 7:14:34 P.M. MovieBookingSystem main
+INFO: ATWC1234 has logged in the ATW Server
+Feb 10, 2023 7:17:16 P.M. MovieBookingSystem main
+INFO: ATWC1234 has logged in the ATW Server
+Feb 10, 2023 7:24:03 P.M. MovieBookingSystem main
+INFO: ATWC1234 has logged in the ATW Server
+Feb 10, 2023 7:51:45 P.M. MovieBookingSystem main
+INFO: ATWC1234 has logged in the ATW Server
+Feb 10, 2023 7:52:23 P.M. MovieBookingSystem main
+INFO: ATWC1234 has logged in the ATW Server
+Feb 10, 2023 8:03:53 P.M. MovieBookingSystem main
+INFO: ATWC1234 has logged in the ATW Server
+Feb 10, 2023 8:06:01 P.M. MovieBookingSystem main
+INFO: ATWC1234 has logged in the ATW Server
+Feb 10, 2023 8:08:00 P.M. MovieBookingSystem main
+INFO: atwc1234 has logged in the atw Server
+Feb 10, 2023 8:08:13 P.M. MovieBookingSystem main
+INFO: atwc1234 has logged in the atw Server
+Feb 10, 2023 8:08:46 P.M. MovieBookingSystem main
+INFO: ATWC1234 has logged in the ATW Server
+Feb 10, 2023 8:10:30 P.M. MovieBookingSystem main
+INFO: ATWC1234 has logged in the ATW Server
+Feb 10, 2023 8:18:49 P.M. MovieBookingSystem main
+INFO: ATWC1234 has logged in the ATW Server
+Feb 10, 2023 9:33:31 P.M. MovieBookingSystem main
+INFO: ATWA1234 has logged in the ATW Server
+Feb 10, 2023 9:34:02 P.M. MovieBookingSystem main
+INFO: ATWA1234 has logged in the ATW Server
+Feb 10, 2023 9:35:33 P.M. MovieBookingSystem main
+INFO: ATWA1234 has logged in the ATW Server
+Feb 10, 2023 9:42:16 P.M. MovieBookingSystem main
+INFO: ATWA1234 has logged in the ATW Server
+Feb 10, 2023 9:42:54 P.M. MovieBookingSystem main
+INFO: ATWA1234 has logged in the ATW Server
+Feb 10, 2023 9:43:28 P.M. MovieBookingSystem main
+INFO: ATWA1234 has logged in the ATW Server
+Feb 10, 2023 9:45:20 P.M. MovieBookingSystem main
+INFO: ATWA1234 has logged in the ATW Server
+Feb 10, 2023 9:45:55 P.M. MovieBookingSystem main
+INFO: ATWA1234 has logged in the ATW Server
+Feb 10, 2023 9:46:22 P.M. MovieBookingSystem main
+INFO: ATWA1234 has logged in the ATW Server
+Feb 10, 2023 9:46:40 P.M. MovieBookingSystem main
+INFO: ATWA1234 has logged in the ATW Server
+Feb 10, 2023 9:46:42 P.M. Client.Admin run
+INFO: The Admin ATWA1234 attempting to Add Movie Slots
+Feb 10, 2023 9:47:25 P.M. Client.Admin run
+INFO: The Admin ATWA1234 successfully added new movie slots
+Feb 10, 2023 10:48:22 P.M. MovieBookingSystem main
+INFO: ATWA1234 has logged in the ATW Server
+Feb 10, 2023 11:14:29 P.M. Client.Admin run
+INFO: The Admin ATWA1234 attempting to Add Movie Slots
+Feb 10, 2023 11:14:55 P.M. Client.Admin run
+INFO: The Admin ATWA1234 successfully added new movie slots
+Feb 10, 2023 11:15:44 P.M. Client.Admin run
+INFO: The Admin ATWA1234 is attempting to remove movie slots
+Feb 10, 2023 11:16:00 P.M. Client.Admin run
+INFO: The Admin ATWA1234 removed slots successfully
+Feb 10, 2023 11:16:12 P.M. Client.Admin run
+INFO: The Admin ATWA1234 attempting to Add Movie Slots
+Feb 10, 2023 11:16:25 P.M. Client.Admin run
+INFO: The Admin ATWA1234 successfully added new movie slots
+Feb 10, 2023 11:17:41 P.M. MovieBookingSystem main
+INFO: ATWA1234 has logged in the ATW Server
+Feb 10, 2023 11:17:42 P.M. Client.Admin run
+INFO: The Admin ATWA1234 attempting to Add Movie Slots
+Feb 10, 2023 11:17:59 P.M. Client.Admin run
+INFO: The Admin ATWA1234 successfully added new movie slots
+Feb 10, 2023 11:24:32 P.M. Client.Admin run
+INFO: The Admin ATWA1234 is attempting to remove movie slots
+Feb 10, 2023 11:24:48 P.M. Client.Admin run
+INFO: The Admin ATWA1234 removed slots successfully
+Feb 10, 2023 11:32:34 P.M. MovieBookingSystem main
+INFO: ATWC1234 has logged in the ATW Server
+Feb 10, 2023 11:34:21 P.M. MovieBookingSystem main
+INFO: ATWC1234 has logged in the ATW Server
+Feb 10, 2023 11:34:24 P.M. Client.Customer run
+INFO: The Customer ATWC1234 attempting to book Movie Slots
+Feb 10, 2023 11:34:40 P.M. Client.Customer run
+INFO: The Customer ATWC1234 booked movie slots successfully.
+Feb 10, 2023 11:42:01 P.M. MovieBookingSystem main
+INFO: ATWA1234 has logged in the ATW Server
+Feb 10, 2023 11:42:03 P.M. Client.Admin run
+INFO: The Admin ATWA1234 is attempting to remove movie slots
+Feb 10, 2023 11:42:57 P.M. MovieBookingSystem main
+INFO: ATWA1234 has logged in the ATW Server
+Feb 10, 2023 11:43:14 P.M. Client.Admin run
+INFO: The Admin ATWA1234 is attempting to remove movie slots
+Feb 10, 2023 11:43:31 P.M. Client.Admin run
+INFO: The Admin ATWA1234 removed slots successfully
+Feb 10, 2023 11:45:30 P.M. Client.Admin run
+INFO: The Admin ATWA1234 is attempting to remove movie slots
+Feb 10, 2023 11:45:49 P.M. MovieBookingSystem main
+INFO: ATWA1234 has logged in the ATW Server
+Feb 10, 2023 11:45:52 P.M. Client.Admin run
+INFO: The Admin ATWA1234 is attempting to remove movie slots
+Feb 10, 2023 11:46:04 P.M. Client.Admin run
+INFO: The Admin ATWA1234 removed slots successfully
+Feb 10, 2023 11:47:09 P.M. Client.Admin run
+INFO: The Admin ATWA1234 attempting to Add Movie Slots
+Feb 13, 2023 9:36:44 P.M. MovieBookingSystem main
+INFO: ATWA1234 has logged in the ATW Server
+Feb 13, 2023 9:36:47 P.M. Client.Admin run
+INFO: The Admin ATWA1234 attempting to Add Movie Slots
+Feb 13, 2023 9:37:19 P.M. MovieBookingSystem main
+INFO: ATWA1234 has logged in the ATW Server
+Feb 13, 2023 10:34:34 P.M. MovieBookingSystem main
+INFO: ATWA1234 has logged in the ATW Server
+Feb 13, 2023 10:34:50 P.M. Client.Admin run
+INFO: The Admin ATWA1234 attempting to Add Movie Slots
+Feb 13, 2023 10:35:18 P.M. Client.Admin run
+INFO: The Admin ATWA1234 successfully added new movie slots
+Feb 13, 2023 10:36:01 P.M. MovieBookingSystem main
+INFO: ATWC1234 has logged in the ATW Server
+Feb 13, 2023 10:36:04 P.M. Client.Customer run
+INFO: The Customer ATWC1234 attempting to book Movie Slots
+Feb 13, 2023 10:36:21 P.M. Client.Customer run
+INFO: The Customer ATWC1234 booked movie slots successfully.

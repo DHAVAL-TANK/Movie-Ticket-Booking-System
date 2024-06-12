@@ -1,0 +1,32 @@
+Feb 10, 2023 1:58:17 P.M. MovieBookingSystem main
+INFO: ATWA1234 has logged in the ATW Server
+Feb 10, 2023 2:00:44 P.M. MovieBookingSystem main
+INFO: ATWA1234 has logged in the ATW Server
+Feb 10, 2023 2:02:06 P.M. MovieBookingSystem main
+INFO: ATWA1234 has logged in the ATW Server
+Feb 10, 2023 2:02:43 P.M. MovieBookingSystem main
+INFO: ATWA1234 has logged in the ATW Server
+Feb 10, 2023 2:05:07 P.M. MovieBookingSystem main
+INFO: ATWA1234 has logged in the ATW Server
+Feb 10, 2023 2:06:19 P.M. MovieBookingSystem main
+INFO: ATWA1234 has logged in the ATW Server
+Feb 10, 2023 2:07:21 P.M. MovieBookingSystem main
+INFO: ATWA1234 has logged in the ATW Server
+Feb 10, 2023 2:08:33 P.M. MovieBookingSystem main
+INFO: ATWA1234 has logged in the ATW Server
+Feb 10, 2023 2:09:25 P.M. MovieBookingSystem main
+INFO: ATWA1234 has logged in the ATW Server
+Feb 10, 2023 2:10:22 P.M. MovieBookingSystem main
+INFO: ATWA1234 has logged in the ATW Server
+Feb 10, 2023 2:14:24 P.M. MovieBookingSystem main
+INFO: ATWA1234 has logged in the ATW Server
+Feb 10, 2023 2:16:07 P.M. MovieBookingSystem main
+INFO: ATWA1234 has logged in the ATW Server
+Feb 10, 2023 2:18:34 P.M. MovieBookingSystem main
+INFO: ATWA1234 has logged in the ATW Server
+Feb 10, 2023 2:20:33 P.M. MovieBookingSystem main
+INFO: ATWA1234 has logged in the ATW Server
+Feb 10, 2023 2:21:14 P.M. MovieBookingSystem main
+INFO: ATWA1234 has logged in the ATW Server
+Feb 10, 2023 3:20:50 P.M. MovieBookingSystem main
+INFO: ATWA1234 has logged in the ATW Server

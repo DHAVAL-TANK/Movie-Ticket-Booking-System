@@ -1,0 +1,10 @@
+Feb 10, 2023 11:35:01 P.M. MovieBookingSystem main
+INFO: OUTC1234 has logged in the OUT Server
+Feb 10, 2023 11:35:06 P.M. Client.Customer run
+INFO: The Customer OUTC1234 attempting to book Movie Slots
+Feb 10, 2023 11:35:20 P.M. Client.Customer run
+INFO: The Customer OUTC1234 booked movie slots successfully.
+Feb 10, 2023 11:36:59 P.M. Client.Customer run
+INFO: The Customer OUTC1234 attempting to cancel movie booking slots
+Feb 10, 2023 11:37:16 P.M. Client.Customer run
+INFO: The Customer OUTC1234 cancelled booking slots successfully.

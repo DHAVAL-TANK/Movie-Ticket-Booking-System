@@ -1,0 +1,2 @@
+Feb 10, 2023 3:47:48 P.M. MovieBookingSystem main
+INFO: ATWA123 has logged in the ATW Server

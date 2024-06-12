@@ -1,0 +1,42 @@
+Feb 10, 2023 3:22:18 P.M. MovieBookingSystem main
+INFO: ATWA1234 has logged in the ATW Server
+Feb 10, 2023 3:23:57 P.M. MovieBookingSystem main
+INFO: ATWA1234 has logged in the ATW Server
+Feb 10, 2023 3:24:26 P.M. MovieBookingSystem main
+INFO: ATWA1234 has logged in the ATW Server
+Feb 10, 2023 3:26:11 P.M. MovieBookingSystem main
+INFO: ATWA1234 has logged in the ATW Server
+Feb 10, 2023 3:29:39 P.M. MovieBookingSystem main
+INFO: ATWA1234 has logged in the ATW Server
+Feb 10, 2023 3:30:33 P.M. MovieBookingSystem main
+INFO: ATWA1234 has logged in the ATW Server
+Feb 10, 2023 3:31:19 P.M. MovieBookingSystem main
+INFO: ATWA1234 has logged in the ATW Server
+Feb 10, 2023 3:34:19 P.M. MovieBookingSystem main
+INFO: ATWA1234 has logged in the ATW Server
+Feb 10, 2023 3:35:52 P.M. MovieBookingSystem main
+INFO: ATWA1234 has logged in the ATW Server
+Feb 10, 2023 3:37:09 P.M. MovieBookingSystem main
+INFO: ATWA1234 has logged in the ATW Server
+Feb 10, 2023 3:39:03 P.M. MovieBookingSystem main
+INFO: ATWA1234 has logged in the ATW Server
+Feb 10, 2023 3:42:17 P.M. MovieBookingSystem main
+INFO: ATWA1234 has logged in the ATW Server
+Feb 10, 2023 3:45:00 P.M. MovieBookingSystem main
+INFO: ATWA1234 has logged in the ATW Server
+Feb 10, 2023 3:46:05 P.M. MovieBookingSystem main
+INFO: ATWA1234 has logged in the ATW Server
+Feb 10, 2023 3:50:13 P.M. MovieBookingSystem main
+INFO: ATWA1234 has logged in the ATW Server
+Feb 10, 2023 3:52:21 P.M. MovieBookingSystem main
+INFO: ATWA1234 has logged in the ATW Server
+Feb 10, 2023 3:56:09 P.M. MovieBookingSystem main
+INFO: ATWA1234 has logged in the ATW Server
+Feb 10, 2023 3:56:35 P.M. Client.Admin run
+INFO: The Admin ATWA1234 successfully added new movie slots
+Feb 10, 2023 4:01:12 P.M. Client.Admin run
+INFO: The Admin ATWA1234 is attempting to remove movie slots
+Feb 10, 2023 4:02:07 P.M. Client.Admin run
+INFO: The Admin ATWA1234 removed slots successfully
+Feb 10, 2023 4:03:36 P.M. MovieBookingSystem main
+INFO: ATWA1234 has logged in the ATW Server
